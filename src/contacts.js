@@ -21,3 +21,6 @@ const contacts = [
     email: "gmail@chucknorris.com"
   }
 ];
+
+//Export Contacts to be used by index.js
+export default contacts;
